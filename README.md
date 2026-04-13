@@ -18,3 +18,6 @@ Runs ONLY if:
 - Skips training when conditions are not met
 - Uploads `error_logs.txt` if training fails
 - Performs cleanup using `always()`
+
+
+trigger training now
